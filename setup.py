@@ -10,11 +10,11 @@ setup(
     url='https://github.com/acburigo/python-hci',
     license='MIT',
     classifiers=[
-        'Development Status :: 4 - Alpha',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.5',
     ],
     keywords=['HCI', 'protocol', 'ti', 'texas instruments', 'encode', 'decode',
               'ble', 'bluetooth low energy'],
